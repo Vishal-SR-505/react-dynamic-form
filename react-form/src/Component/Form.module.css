@@ -1,0 +1,17 @@
+.label {
+
+
+}
+
+.input_container{
+display: flex;
+gap: 10px;
+flex-direction: column;
+}
+.form_container{
+    display: flex;
+    height: 100vh;
+    justify-content: center;
+    width: 100%;
+    gap: 10px;
+}
